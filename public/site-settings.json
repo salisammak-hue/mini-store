@@ -1,0 +1,22 @@
+{
+  "siteName": "فروشگاه مواد غذایی",
+  "siteSlogan": "بهترین قیمت محصولات غذایی را با ما تجربه کنید",
+  "contact": {
+    "phone": "091211112",
+    "email": "info@shop.com",
+    "address": "تهران، خیابان ولیعصر، کوچه شبنم شرقی، پلاک ۱۲۳"
+  },
+  
+  "enamad": {
+    "enabled": true,
+    "url": "https://enamad.com",
+    "showLogo": true
+  },
+  "theme": {
+    "primaryColor": "blue"
+  },
+
+  "footer": {
+    "copyright": "© ۱۴۰۴ تمامی حقوق محفوظ است | طراحی و توسعه"
+  }
+}

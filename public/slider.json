@@ -1,0 +1,20 @@
+[
+  {
+    "desktopImage": "https://demo.hardweb.ir/slide/slide1.jpg?auto=compress&cs=tinysrgb&w=1200&h=250",
+    "mobileImage": "https://demo.hardweb.ir/slide/mobile/slide1.jpg?auto=compress&cs=tinysrgb&w=600&h=300",
+    "link": "https://example.com/offer1",
+    "alt": "پیشنهاد ویژه ۱ - تخفیف ۵۰ درصدی"
+  },
+  {
+    "desktopImage": "https://demo.hardweb.ir/slide/slide2.jpg?auto=compress&cs=tinysrgb&w=1200&h=250",
+    "mobileImage": "https://demo.hardweb.ir/slide/mobile/slide2.jpg?auto=compress&cs=tinysrgb&w=600&h=300",
+    "link": "",
+    "alt": "بنر تبلیغاتی ۲ - محصولات جدید"
+  },
+  {
+    "desktopImage": "https://images.pexels.com/photos/230544/pexels-photo-230544.jpeg?auto=compress&cs=tinysrgb&w=1200&h=250",
+    "mobileImage": "https://images.pexels.com/photos/230544/pexels-photo-230544.jpeg?auto=compress&cs=tinysrgb&w=600&h=300",
+    "link": "https://example.com/products",
+    "alt": "مشاهده تمام محصولات"
+  }
+]
